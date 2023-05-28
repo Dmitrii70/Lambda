@@ -1,5 +1,3 @@
-package JavaCore.Chapter1.Homework1;
-
 import java.util.function.*;
 
 public class Calculator {
