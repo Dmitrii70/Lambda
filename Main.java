@@ -1,5 +1,3 @@
-package JavaCore.Chapter1.Homework1;
-
 public class Main {
     public static void main(String[] args) {
         Calculator calc = Calculator.instance.get();
